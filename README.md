@@ -23,16 +23,19 @@ interests:
   - Gaming
   - Football
   - Creative Design
-currently_learning:
+  Educated In :
   - HTML
   - CSS
   - C
-mindset: Always curious. Never ordinary.
+currently_learning:
+  - Python
+  - Animation
+  mindset: Always curious. Never ordinary.
 ```
 
-I'm someone who enjoys exploring different worlds — whether it's writing code, discovering music, playing games or creating something visually different.
+I'm someone who enjoys exploring different worlds, Ideas and Conecepts :—
+     whether it's writing code, discovering music, playing games or creating something visually different.
 
-I believe there's always something new worth learning.
 
 ## 02 — Tech Stack
 
@@ -71,6 +74,7 @@ I believe there's always something new worth learning.
 
 ## 06 — A Little Philosophy
 "Not everything needs to be understood. Some things are meant to be explored."
+I believe there's always something new worth learning.
 
 
 <div align="center">
