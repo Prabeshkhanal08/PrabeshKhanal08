@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 𝑯𝒆𝒚, 𝑰'𝒎 𝑺𝒉𝒐𝒎𝒃𝒓𝒖 👋
+# 𝑯𝒆𝒚, 𝑰'𝒎 PRABESH  👋
 
 ### `A curious mind in an ever-changing world.`
 
@@ -16,7 +16,7 @@
 ## 01 — About Me
 
 ```yaml
-name: Shombru
+name: prabesh Khanl 
 occupation: Student
 location: Nepal 🇳🇵
 interests:
