@@ -3,12 +3,10 @@
 
 # 𝑯𝒆𝒚, 𝑰'𝒎 PRABESH  👋
 
-### `A curious mind in an ever-changing world.`
+ A student figuring things out one line of code, one chord, one match,
+      and one late-night idea at a time.
 
-*Somewhere between code, music, games and imagination.*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6c63ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-
+*Satying Somewhere between code, music, games and imagination.*
 </div>
 
 ---
@@ -16,7 +14,7 @@
 ## 01 — About Me
 
 ```yaml
-name: prabesh Khanl 
+name: Prabesh Khanal 
 occupation: Student
 location: Nepal 🇳🇵
 interests:
@@ -72,15 +70,13 @@ I believe there's always something new worth learning.
 </p>
 
 ## 06 — A Little Philosophy
+"Not everything needs to be understood. Some things are meant to be explored."
 
-> "Not everything needs to be understood. Some things are meant to be explored."
-
----
 
 <div align="center">
 
-### 𝑺𝒕𝒊𝒍𝒍 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈. 𝑺𝒕𝒊𝒍𝒍 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈.
+ 𝑺𝒕𝒊𝒍𝒍 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈. 𝑺𝒕𝒊𝒍𝒍 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈.
 
-**Thanks for stopping by. ✦**
-
+** THANKS FOR OPENING THE PROFILE  **
+            SCOLL DOWN 
 </div>
