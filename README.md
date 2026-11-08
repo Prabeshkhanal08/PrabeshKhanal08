@@ -1,16 +1,86 @@
-## Hi there 👋
 
-<!--
-**Prabeshkhanal08/PrabeshKhanal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 𝑯𝒆𝒚, 𝑰'𝒎 𝑺𝒉𝒐𝒎𝒃𝒓𝒖 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `A curious mind in an ever-changing world.`
+
+*Somewhere between code, music, games and imagination.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6c63ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 01 — About Me
+
+```yaml
+name: Shombru
+occupation: Student
+location: Nepal 🇳🇵
+interests:
+  - Programming & Technology
+  - Music & Guitar
+  - Gaming
+  - Football
+  - Creative Design
+currently_learning:
+  - HTML
+  - CSS
+  - C
+mindset: Always curious. Never ordinary.
+```
+
+I'm someone who enjoys exploring different worlds — whether it's writing code, discovering music, playing games or creating something visually different.
+
+I believe there's always something new worth learning.
+
+## 02 — Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,git,github,vscode" />
+</p>
+
+## 03 — What I'm Exploring
+
+- 🌐 Web Development
+- 🎨 UI Design & Creative Experiments
+- 💻 Programming & Problem Solving
+- 🎮 Gaming & Digital Worlds
+- 🎸 Music & Guitar
+
+## 04 — Beyond The Code
+
+| Interest | What I love |
+|---|---|
+| 🎧 Music | Songs with a nostalgic, emotional feel |
+| 🎮 Gaming | Immersive worlds and unforgettable experiences |
+| ⚽ Football | The beautiful game |
+| 🎨 Design | Dark, cinematic and minimal aesthetics |
+| 📚 Learning | Exploring things beyond the ordinary |
+
+## 05 — GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+## 06 — A Little Philosophy
+
+> "Not everything needs to be understood. Some things are meant to be explored."
+
+---
+
+<div align="center">
+
+### 𝑺𝒕𝒊𝒍𝒍 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈. 𝑺𝒕𝒊𝒍𝒍 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈.
+
+**Thanks for stopping by. ✦**
+
+</div>
